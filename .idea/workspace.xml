@@ -34,6 +34,12 @@
   <component name="PhpServers">
     <servers />
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="650" />
+    <option name="y" value="25" />
+    <option name="width" value="1185" />
+    <option name="height" value="970" />
+  </component>
   <component name="ProjectId" id="1SgFHQxzyOXzILBb4t6j3HRYnT5" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
